@@ -18,7 +18,7 @@
     @if ($xsmb->date == date('Y-m-d', time()))
         <div class="box" id='kqngay_{{ getNgayID($xsmb->date) }}'>
             <div class="tit-mien clearfix">
-                <h2> XSMB - Xổ số miền Bắc hôm nay</h2>
+                <h2> XSMB - Kết quả xổ số miền Bắc hôm nay</h2>
                 <div id="MbListLink">
                     <a class="sub-title" href="{{ route('xsmb') }}" title="XSMB">XSMB</a>
                     » <a class="sub-title" href="{{ route(getRouteDay($xsmb->day, 'xsmb')) }}"
@@ -326,15 +326,15 @@
                 @if ($d == 1)
                     <h2>XSMB - Kết quả xổ số miền Bắc hôm nay</h2>
                 @elseif($d == 2)
-                    <h2>XSMB - Kết quả xổ số truyền thống {{ getNgay($xsmb->date) }}</h2>
+                    <h2>SXMB - Kết quả xổ số truyền thống {{ getNgay($xsmb->date) }}</h2>
                 @elseif($d == 3)
-                    <h2>KQSXMB - Xổ số kiến thiết miền Bắc {{ getNgay($xsmb->date) }}</h2>
+                    <h2>KQXSMB - Xổ số kiến thiết miền Bắc {{ getNgay($xsmb->date) }}</h2>
                 @elseif($d == 4)
                     <h2>SXTD - Xổ số Thủ Đô đài miền Bắc {{ getNgay($xsmb->date) }}</h2>
                 @elseif($d == 5)
                     <h2>XSHN - Kết quả xổ số đài miền Bắc {{ getNgay($xsmb->date) }}</h2>
                 @elseif($d == 6)
-                    <h2>KQXSMB - Xổ số MB {{ getNgay($xsmb->date) }}</h2>
+                    <h2>KQSXMB - Xổ số MB {{ getNgay($xsmb->date) }}</h2>
                 @elseif($d == 7)
                     <h2>Kết quả XS MB {{ getNgay($xsmb->date) }}</h2>
                 @endif

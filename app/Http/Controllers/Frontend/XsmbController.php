@@ -325,7 +325,7 @@ class XsmbController extends Controller
             $str_day_vt = 'T' . $day;
         }
         $meta_title = 'XSMB ' . $str_day . ' - Kết quả xổ số miền Bắc thứ  ' . $str_day . ' hàng tuần ';
-        $meta_decription = 'XSMB ' . $str_day_kd . ' - Xổ số miền Bắc ' . $str_day . ' - hàng tuần vào lúc 18:15, KQXSMB ' . $str_day . ' - XSMB ' . $str_day . ' - XSMB ' . $str_day_kd . ' cập nhật chính xác nhất.';
+        $meta_decription = 'XSMB ' . $str_day_kd . ' - Xổ số miền Bắc ' . $str_day . ' - hàng tuần vào lúc 18:15, KQXSMB ' . $str_day . ' - XSMB ' . $str_day . ' - SXMB ' . $str_day_kd . ' cập nhật chính xác nhất.';
         $meta_keyword = 'XSMB ' . $str_day_kd . ', SXMB ' . $str_day_kd . ', XSMB ' . $str_day_vt . ', KQXSMB ' . $str_day_kd . ', XSMB ' . $str_day_kd . ' Hang Tuan,xổ số miền Bắc ' . $str_day;
 
 

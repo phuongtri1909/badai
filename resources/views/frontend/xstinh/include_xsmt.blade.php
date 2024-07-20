@@ -378,13 +378,13 @@
                     <h2>XS {{ strtoupper($xs->province->name) }} - Xổ số kiến thiết {{ $xs->province->name }}
                         {{ getNgay($xs->date) }}</h2>
                 @elseif($d == 5)
-                    <h2>KQKT {{ strtoupper($xs->province->name) }} - Xo so {{ $xs->province->name }}
+                    <h2>XSKT {{ strtoupper($xs->province->name) }} - Xo so {{ $xs->province->name }}
                         {{ getNgay($xs->date) }}</h2>
                 @elseif($d == 6)
                     <h2>XS{{ strtoupper($xs->province->short_name) }} - Xổ số {{ $xs->province->name }}
                         {{ $thu }} {{ getNgay($xs->date) }}</h2>
                 @elseif($d == 7)
-                    <h2>XS{{ strtoupper($xs->province->short_name) }} - XS {{ $xs->province->name }}
+                    <h2>XS{{ strtoupper($xs->province->short_name) }} - SX {{ $xs->province->name }}
                         {{ getNgay($xs->date) }}</h2>
                 @endif
                 <div>

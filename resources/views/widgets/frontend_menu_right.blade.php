@@ -96,7 +96,7 @@
                 @foreach ($postTK as $item)
                 
                     <?php
-                    $link = str_replace('XoSobadai.net', 'xosobadai.net', $item->link);
+                    $link = str_replace('xoso.site', 'xosobadai.net', $item->link);
                     
                     ?>
                     <li class="clearfix"><a title="{{ $item->title }}" href="{{ $link }}" class="fl"><img

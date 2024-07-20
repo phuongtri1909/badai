@@ -11,7 +11,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
 @section('keyword',
     'xsmt, SXMT, kqxsmt, xổ số miền Trung, xs mien Trung, kq mien Trung, kqxs mien Trung, ket qua xsmt,
     xo so mien Trung, xsmt hom nay, ket qua mien Trung, kết quả xổ số miền Trung, xo so mien Trung hom nay')
-@section('h1', 'XSMT - Kết Quả Xổ Số miền Trung - KQXSMT')
+@section('h1', 'XSMT - Kết quả xổ số miền Trung hôm nay - SXMT - KQXSMT')
 @section('content')
     <div class="col-l" style="height: auto !important;">
         {{-- <div class="box"> --}}

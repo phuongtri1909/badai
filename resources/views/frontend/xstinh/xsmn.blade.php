@@ -37,7 +37,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
 
         <div class="box-content">
 
-            <p><span style="font-size:14px">XS{{ strtoupper($province->short_name) }} - Trực tiếp kết quả <a style="text-decoration: underline" title="xổ số {{ $province->name }}"
+            <p><span style="font-size:14px">SX{{ strtoupper($province->short_name) }} - Trực tiếp kết quả <a style="text-decoration: underline" title="xổ số {{ $province->name }}"
                         href="{{ route('xstinh.tinh', $province->slug) }}">xổ số {{ $province->name }}</a> hôm nay nhanh
                     nhất và chính xác nhất. Kết quả XS{{ strtoupper($province->short_name) }} được công bố vào lúc 16:15
                     {{ $thu }} hàng tuần trên website xosobadai.net cập nhật mới nhất. Ngoài ra còn có các tiện ích

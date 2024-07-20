@@ -1,7 +1,7 @@
 @extends('frontend.layouts.app')
 @section('title','Xổ số điện toán 123 - Kết quả XSDT123')
 @section('decription','Kết quả XSDT123 cập nhật mới nhất, Theo dõi kết quả xổ số điện toán 123 hàng ngày nhanh và chính xác.')
-@section('h1','XS điện toán 123 - Kết quả xổ số điện toán 123')
+@section('h1','Xổ số điện toán 123 - Kết quả XSDT123')
 
 @section('breadcrumb')
     <div class="linkway">

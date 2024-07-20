@@ -11,7 +11,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
 @section('keyword',
     'xsmn, sxmn, kqxsmn, xổ số miền nam, xs mien nam, kq mien nam, kqxs mien nam, ket qua xsmn, xo so
     mien nam, xsmn hom nay, ket qua mien nam, kết quả xổ số miền nam, xo so mien nam hom nay')
-@section('h1', 'XSMN. KQXSMN Hôm nay. Xổ Số Miền Nam. SXMN. Kết Quả Xổ Số Miền Nam Hàng Ngày')
+@section('h1', 'XSMN - Kết quả xổ số miền Nam hôm nay - SXMN - KQXSMN')
 @section('content')
     <div class="col-l" style="height: auto !important;">
         {{-- <div class="box"> --}}

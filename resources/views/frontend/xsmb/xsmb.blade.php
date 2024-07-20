@@ -8,7 +8,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
 @section('keyword', 'xsmb, sxmb, kqxsmb, xstd, xsmb hom nay, sxmb hom nay, xs mien bac, kqxs mien bac, xsmb 30 ngay, xổ
     số miền bắc,kq mb, kq xsmb, ket qua xsmb, xo so mien bac, sxmb hom nay, ket qua mien bac, kết quả xổ số miền bắc,xo so
     thu do,xo so mien bac hom nay')
-@section('h1', 'XSMB Hôm Nay. Kết Quả Xổ Số Miền Bắc. Kqxsmb. Xs Miền Bắc. Xổ Số Miền Bắc Hôm Nay')
+@section('h1', 'XSMB - Kết quả xổ số Miền Bắc hôm nay - KQXSMB - SXMB - XSTD.')
 @section('content')
     <div class="col-l">
         {{-- <div class="box"> --}}

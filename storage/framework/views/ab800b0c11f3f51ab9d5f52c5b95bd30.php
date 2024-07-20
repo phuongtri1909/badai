@@ -97,7 +97,7 @@
                 <?php $__currentLoopData = $postTK; $__env->addLoop($__currentLoopData); foreach($__currentLoopData as $item): $__env->incrementLoopIndices(); $loop = $__env->getLastLoop(); ?>
                 
                     <?php
-                    $link = str_replace('XoSobadai.net', 'xosobadai.net', $item->link);
+                    $link = str_replace('xoso.site', 'xosobadai.net', $item->link);
                     
                     ?>
                     <li class="clearfix"><a title="<?php echo e($item->title); ?>" href="<?php echo e($link); ?>" class="fl"><img
