@@ -333,6 +333,12 @@ function getNgay($date)
     return $arrDate[2] . '/' . $arrDate[1] . '/' . $arrDate[0];
 }
 
+function getNgay1($date)
+{
+    $arrDate = explode('-', $date);
+    return intval($arrDate[2]) . '/' . intval($arrDate[1]) . '/' . $arrDate[0];
+}
+
 function getNgay_Emb($date)
 {
     $arrDate = explode('-', $date);
