@@ -54,7 +54,7 @@
                             <i class="icon icon_live" style="display: none"><i
                                     class="fas fa-spinner fa-pulse text-danger"></i></i>
                             <i class="fas fa-check icon icon_done" style="display: none"></i>
-                            <span class="badge icon icon_w" style="display: none">17:05</span>
+                            <span class="badge icon icon_w" style="display: none">16:05</span>
                         </li>
                     @else
                         <li @if (url()->full() == route('xstinh.tinh', $pro->slug)) class="active" @endif><a
@@ -78,7 +78,7 @@
                             <i class="icon icon_live" style="display: none"><i
                                     class="fas fa-spinner fa-pulse text-danger"></i></i>
                             <i class="fas fa-check icon icon_done" style="display: none"></i>
-                            <span class="badge icon icon_w" style="display: none">16:05</span>
+                            <span class="badge icon icon_w" style="display: none">17:05</span>
                         </li>
                     @else
                         <li @if (url()->full() == route('xstinh.tinh', $pro->slug)) class="active" @endif><a
