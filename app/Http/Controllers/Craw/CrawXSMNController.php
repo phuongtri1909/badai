@@ -67,7 +67,8 @@ class CrawXSMNController extends Controller
                 }
 
                 // ngày chưa có kết quả thì thoát
-                if (empty($tr->find('td', $i)->find('div', 0)->innertext)) {
+                $td = $tr->find('td', $i);
+                if ($td === null || empty($td->find('div', 0)->innertext)) {
                     return;
                 }
 
