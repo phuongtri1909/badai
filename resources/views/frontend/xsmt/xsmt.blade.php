@@ -70,7 +70,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
                 số miền Trung nhanh nhất và chính xác nhất hàng ngày, KQXSMT được quay số vào lúc 17:15 tất cả các ngày
                 trong tuần.</p>
 
-            <h3><strong>Lịch mở thưởng xổ số miền Trung trong tuần:</strong></h3>
+            <h2><strong>Lịch mở thưởng xổ số miền Trung trong tuần:</strong></h2>
             <p style="margin: 0;margin-top: 20px">XSMT thứ 2: XS Huế - XS Phú Yên</p>
             <p style="margin: 0">XSMT thứ 3: XS Quảng Nam - XS Đắk Lắk</p>
             <p style="margin: 0">XSMT thứ 4: XS Đà Nẵng - XS Khánh Hòa</p>
@@ -79,7 +79,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
             <p style="margin: 0">XSMT thứ 7: XS Đà Nẵng - XS Quảng Ngãi - XS Đắk Nông</p>
             <p style="margin: 0;margin-bottom: 15px">XSMT chủ nhật: XS Khánh Hòa - XS Kon Tum</p>
 
-            <h3><strong>Cơ cấu giải thưởng vé số kiến thiết miền Trung</strong></h3>
+            <h2><strong>Cơ cấu giải thưởng vé số kiến thiết miền Trung</strong></h2>
             <p style="margin: 0;margin-top: 20px">Loại vé: 10.000 Đồng</p>
             <p style="margin: 0">Số lượng giải thưởng: 11.565</p>
             <p style="margin: 0">Số lần quay: 18 lần</p>
@@ -176,7 +176,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
                     </tbody>
                 </table>
             </div>
-            <h3><strong>Hướng dẫn đổi vé số trúng thưởng đài miền Trung</strong></h3>
+            <h2><strong>Hướng dẫn đổi vé số trúng thưởng đài miền Trung</strong></h2>
             
             <li style="margin-top:22px">Thời gian: 30 ngày kể từ lần công bố KQXSMT của vé trúng thưởng.</li>
             <li>Địa điểm: Trung tâm công ty xổ số các tỉnh miền Trung theo vé trúng thưởng hoặc liên hệ các đại lý dò số gần nhất để đổi số trúng.</li>

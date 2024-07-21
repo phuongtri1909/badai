@@ -330,7 +330,7 @@
                 @elseif($d == 3)
                     <h2>KQXSMB - Xổ số kiến thiết miền Bắc {{ getNgay($xsmb->date) }}</h2>
                 @elseif($d == 4)
-                    <h2>SXTD - Xổ số Thủ Đô đài miền Bắc {{ getNgay($xsmb->date) }}</h2>
+                    <h2>XSTD - Xổ số Thủ Đô đài miền Bắc {{ getNgay($xsmb->date) }}</h2>
                 @elseif($d == 5)
                     <h2>XSHN - Kết quả xổ số đài miền Bắc {{ getNgay($xsmb->date) }}</h2>
                 @elseif($d == 6)

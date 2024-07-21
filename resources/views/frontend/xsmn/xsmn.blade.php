@@ -70,7 +70,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
                 xosobadai.net miễn phí. KQSXMN sẽ quay số mở thưởng 3 tỉnh mỗi ngày và thứ bảy sẽ mở thưởng 4 tỉnh. Kết quả
                 XSMN sẽ được tường thuật trực tiếp chính xác từ trường quay xổ số đảm bảo sự minh bạch.</p>
 
-            <h3><strong>Lịch mở thưởng xổ số miền Nam trong tuần:</strong></h3>
+            <h2><strong>Lịch mở thưởng xổ số miền Nam trong tuần:</strong></h2>
             <p style="margin: 0;margin-top: 20px">XSMN Chủ Nhật: Tiền Giang - Kiên Giang - Đà Lạt</p>
             <p style="margin: 0">XSMN Thứ 2: TP Hồ Chí Minh - Đồng Tháp - Cà Mau</p>
             <p style="margin: 0">XSMN Thứ 3: Bến Tre - Vũng Tàu - Bạc Liêu</p>
@@ -79,7 +79,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
             <p style="margin: 0">XSMN Thứ 6: Vĩnh Long - Bình Dương - Trà Vinh</p>
             <p style="margin: 0;margin-bottom: 15px">XSMN Thứ 7: TP.HCM - Long An - Bình Phước - Hậu Giang</p>
 
-            <h3><strong>Cơ cấu giải thưởng vé số kiến thiết miền Nam</strong></h3>
+            <h2><strong>Cơ cấu giải thưởng vé số kiến thiết miền Nam</strong></h2>
             <p style="margin: 0;margin-top: 20px">Loại vé: 10.000 Đồng</p>
             <p style="margin: 0">Số lượng giải thưởng: 11.565</p>
             <p style="margin: 0">Số lần quay: 18 lần</p>
@@ -164,7 +164,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
                     </tbody>
                 </table>
             </div>
-            <h3><strong>Hướng dẫn đổi vé số trúng thưởng đài miền Nam</strong></h3>
+            <h2><strong>Hướng dẫn đổi vé số trúng thưởng đài miền Nam</strong></h2>
             <p style="margin-bottom:0">Thời gian: Vé số trúng thưởng có thời gian lãnh thưởng theo quy định là 30 ngày kể từ ngày có kết quả xổ số.</p>
             <p style="margin: 0">Địa điểm: Vé số trúng thưởng có thể đổi ở trụ sở công ty xổ số ở nơi phát hành hoặc mang tới các đại lý bán vé số gần nhất.</p>
             <strong>Khách hàng cần mang theo:</strong>

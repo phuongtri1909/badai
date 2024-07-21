@@ -55,7 +55,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
                 18:10 tường thuật trực tuyến từ trường quay Công ty TNHH Một thành viên Xổ số kiến thiết Thủ đô tại địa chỉ
                 53E Hàng Bài, Quận Hoàn Kiếm, Hà Nội, Việt Nam.</p>
 
-            <h3><strong>Lịch mở thưởng <a href="{{ route('xsmb') }}"> xổ số miền Bắc </a>trong tuần:</strong></h3>
+            <h2><strong>Lịch mở thưởng <a href="{{ route('xsmb') }}"> xổ số miền Bắc </a>trong tuần:</strong></h2>
             <p style="margin: 0;margin-top: 20px">Thứ Hai: Xổ số Hà Nội </p>
             <p style="margin: 0">Thứ Ba: Xổ số Quảng Ninh </p>
             <p style="margin: 0">Thứ Tư: Xổ số Bắc Ninh </p>
@@ -64,7 +64,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
             <p style="margin: 0">Thứ Bảy: Xổ số Nam Định</p>
             <p style="margin: 0;margin-bottom: 15px">Chủ Nhật: Xổ số Thái Bình</p>
 
-            <h3><strong>Cơ cấu giải thưởng vé số kiến thiết miền Bắc</strong></h3>
+            <h2><strong>Cơ cấu giải thưởng vé số kiến thiết miền Bắc</strong></h2>
             <p style="margin: 0;margin-top: 20px">Loại vé: 10.000 Đồng</p>
             <p style="margin: 0">Số lượng giải thưởng: 108.200</p>
             <p style="margin: 0">Số lần quay: 27 lần</p>
@@ -143,17 +143,12 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
                 </tbody>
             </table>
         </div>
-            <h3><strong>Hướng dẫn đổi vé số trúng thưởng đài miền Bắc</strong></h3>
+            <h2><strong>Hướng dẫn đổi vé số trúng thưởng đài miền Bắc</strong></h2>
             <p style="margin-bottom:0">Thời gian: Từ thứ Hai đến thứ Sáu trong giờ hành chính và vào các buổi sáng thứ Bảy, Chủ Nhật, cũng như các ngày lễ.</p>
             <p style="margin: 0">Địa điểm: Số 53E, phố Hàng Bài, quận Hoàn Kiếm, thành phố Hà Nội và các đại lý xổ số kiến thiết trên địa bàn thành phố Hà Nội.</p>
             <strong>Khách hàng cần mang theo:</strong>
             <p style="margin: 0">Thẻ căn cước công dân</p>
             <p style="margin: 0">Vé trúng thưởng phải còn nguyên vẹn, không rách rời, không chắp vá, và không bị tẩy xóa.</p>
-
-           
-
-            
-
 
         </div>
         <script></script>
