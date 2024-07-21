@@ -193,7 +193,7 @@
                     
                 </li>
                 <li class="fl clearfix <?php if(request()->routeIs('home.thu*') || request()->routeIs('home.cn') || request()->routeIs('home')): ?> active <?php endif; ?>"><a href="<?php echo e(route('home')); ?>" class="fl"
-                    title="XSMB">KQSX</a>
+                    title="XSMB">KQXS</a>
                 </li>
                 <li class="fl clearfix <?php if(request()->routeIs('xsmb.thu*') || request()->routeIs('xsmb.cn') || request()->routeIs('xsmb')): ?> active <?php endif; ?>"><a href="<?php echo e(route('xsmb')); ?>" class="fl"
                                            title="XSMB">XSMB</a><span
@@ -330,7 +330,7 @@
                 </li>
                 <li class="fl clearfix"><a href="<?php echo e(route('somo')); ?>" class="fl" title="Sổ mơ">Sổ
                         mơ</a></li>
-                <li class="fl clearfix"><a href="<?php echo e(route('scmb.cau-bach-thu')); ?>" class="fl" title="Tk cầu">Tk
+                <li class="fl clearfix"><a href="<?php echo e(route('scmb.cau-bach-thu')); ?>" class="fl" title="Tk cầu">Thống kê
                         cầu</a><span onclick="expand('_a_tkcau');this.classList.toggle('active');"
                                      class="in-block ic arr-d fr"></span>
                     <ul id="_a_tkcau" class="menu-c2">

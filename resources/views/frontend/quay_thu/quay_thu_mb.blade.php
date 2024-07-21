@@ -3,9 +3,9 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
 ?>
 @extends('frontend.layouts.app')
 
-@section('title','Quay thử XSMB - Quay thử Xổ số miền bắc hôm nay Với Xổ Số Site')
-@section('decription','Quay thử XSMB Với Xổ Số Site ✅ - Quay thử MB - Quay thử Xổ số miền bắc lấy hên trước giờ tường thuật xổ số, Quay thử Xổ số Miền Bắc hôm nay trước khi mua vé xổ số kiến thiết MB, chúc bạn may mắn!')
-@section('h1','Quay thử XSMB - Quay thử Xổ số miền bắc hôm nay Với Xổ Số Site')
+@section('title','Quay thử XSMB hôm nay - Quay thử xổ số miền Bắc')
+@section('decription','Quay thử XSMB thử vận may trước khi xem tường thuật kết quả xổ số. Bạn có thể quay thử Xổ số Miền Bắc hôm nay trước khi mua vé số kiến thiết MB.')
+@section('h1','Quay thử XSMB hôm nay - Quay thử xổ số miền Bắc')
 
 @section('breadcrumb')
     <div class="linkway">
@@ -280,24 +280,20 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
             </div>
         </div>
         <div class="box-content">
-         <p style="text-align: justify;"><span style="font-weight: 400;"><a title="Quay Thử Xổ Số Miền Bắc" href="/quay-thu-xo-so-mien-bac"><strong>Quay Thử Xổ Số Miền Bắc</strong></a>. Quay Thử XSMB. Quay Thử XSMB h&ocirc;m nay. Quay Thử Kết Quả Xổ Số Miền Bắc nhanh ch&oacute;ng v&agrave; ho&agrave;n to&agrave;n miễn ph&iacute; tại xosobadai.net</span></p>
-            <p style="text-align: justify;"><span style="font-weight: 400;">Quay Thử Xổ Số Miền Bắc lấy cặp số may mắn trước giờ tường thuật xổ số tại xosobadai.net</span></p>
-            <p style="text-align: justify;"><strong>Quay Thử Xổ Số l&agrave; g&igrave;?</strong></p>
-            <p style="text-align: justify;"><span style="font-weight: 400;">Quay thử xổ số được dựa tr&ecirc;n phương ph&aacute;p tham khảo h&igrave;nh thức thuật to&aacute;n dựa tr&ecirc;n số liệu thống k&ecirc; Kết quả xổ số&nbsp; KQXS được lưu trữ trong 13 năm, sau đ&oacute; được hệ thống si&ecirc;u m&aacute;y&nbsp; t&iacute;nh xử l&yacute; th&ocirc;ng qua lập tr&igrave;nh t&iacute;nh to&aacute;n của hệ thống m&aacute;y t&iacute;nh để đưa ra những con số quay thử với x&aacute;c suất cao nhất gi&uacute;p bạn c&oacute; được con số ch&iacute;nh x&aacute;c.</span></p>
-            <p style="text-align: justify;"><span style="font-weight: 400;">Quay thử xổ số h&ocirc;m nay l&agrave; c&ocirc;ng cụ gi&uacute;p bạn thao t&aacute;c quay thử nhanh nhất để sớm biết được kết quả may mắn h&ocirc;m nay ra con g&igrave;.</span></p>
-            <p style="text-align: justify;"><strong>Quay Thử Xổ Số Miền Bắc</strong></p>
-            <p style="text-align: justify;"><span style="font-weight: 400;">- Quay thử <a title="kết quả xổ số miền Bắc" href="/xsmb-xo-so-mien-bac"><strong>kết quả xổ số miền Bắc</strong></a> h&ocirc;m nay gi&uacute;p bạn t&igrave;m ra con số ngẫu nhi&ecirc;n lấy may. Kết quả xổ số KQXS được quay tự động từ hệ thống. C&aacute;c con số xuất hiện được thống k&ecirc; lại từ bảng kết quả&nbsp; xổ số được thống k&ecirc; của những ng&agrave;y trước gi&uacute;p bạn t&igrave;m ra con số may mắn nhất.</span></p>
-            <p style="text-align: justify;"><span style="font-weight: 400;">- Tuy nhi&ecirc;n, quay thử xổ số QTXS cũng chỉ mang t&iacute;nh chất tham khảo l&agrave; ch&iacute;nh, ho&agrave;n to&agrave;n kh&ocirc;ng phải l&agrave; kết quả thật.</span></p>
-            <p style="text-align: justify;"><strong>Lịch quay mở thưởng Kết Quả Xổ Số Miền Bắc&nbsp;</strong></p>
-            <p style="text-align: justify;"><span style="font-weight: 400;"><strong>- Thứ 2</strong>: Do đ&agrave;i H&agrave; Nội XSHN quay mở thưởng</span></p>
-            <p style="text-align: justify;"><span style="font-weight: 400;"><strong>- Thứ 3:</strong> Do đ&agrave;i Quảng Ninh&nbsp; XSQN quay mở thưởng</span></p>
-            <p style="text-align: justify;"><span style="font-weight: 400;"><strong>- Thứ 4: </strong>Do đ&agrave;i Bắc Ninh&nbsp; XSBN quay mở thưởng</span></p>
-            <p style="text-align: justify;"><span style="font-weight: 400;"><strong>- Thứ 5:</strong> Do đ&agrave;i H&agrave; Nội &nbsp;XSHN&nbsp; quay mở thưởng</span></p>
-            <p style="text-align: justify;"><span style="font-weight: 400;"><strong>- Thứ 6</strong>: Do đ&agrave;i Hải Ph&ograve;ng XSHP quay mở thưởng</span></p>
-            <p style="text-align: justify;"><span style="font-weight: 400;"><strong>- Thứ 7:</strong> Do đ&agrave;i Nam Định XSNĐ quay mở thưởng</span></p>
-            <p style="text-align: justify;"><span style="font-weight: 400;"><strong>- Chủ Nh&acirc;̣t:</strong> Do đ&agrave;i Th&aacute;i B&igrave;nh XSTB quay mở thưởng</span></p>
-            <p style="text-align: justify;"><span style="font-weight: 400;"><strong>Lưu &yacute;: </strong>Những th&ocirc;ng tin về c&aacute;ch quay xổ số ngẫu nhi&ecirc;n ho&agrave;n to&agrave;n chỉ mang t&iacute;nh chất tham khảo. Ch&uacute;c c&aacute;c bạn may mắn.</span></p>
-            <p style="text-align: justify;"><span style="font-weight: 400;">Xem Kết Quả Xổ Số mới nhất: Xổ Số Miền Bắc (<a title="XSMB" href="/xsmb-xo-so-mien-bac"><strong>XSMB</strong></a>), Xổ Số miền Trung(XSMT) v&agrave; Xổ Số miền Nam(<a title="XSMN" href="/xsmn-xo-so-mien-nam"><strong>XSMN</strong></a>) được cập nhật li&ecirc;n tục mỗi ng&agrave;y tr&ecirc;n xosobadai.net</span></p>
+            <h2 style="margin-bottom:25px"><strong>Quay Thử Xổ Số Miền Bắc Hôm Nay</strong></h2>
+            <p style="margin: 0"><strong>Hướng Dẫn Sử Dụng</strong></p>
+            <p style="margin: 0">Bước 1: Chọn đài “Quay thử miền Bắc”.</p>
+            <p style="margin: 0">Bước 2: Nhấn nút "Quay thử". Hệ thống sẽ tự động quay các bộ số ngẫu nhiên cho đài xổ số miền Bắc bạn đã chọn.</p>
+            <p style="margin: 0">Bước 3: Xem bảng kết quả quay thử.</p>
+            <p style="margin: 0"><Strong>Lưu Ý Quan Trọng</Strong></p>
+            <p style="margin: 0">Quay thử xổ số miền Bắc hôm nay là một tính năng được xosobadai.net cung cấp. Kết quả quay thử 
+                <a style="text-decoration: underline" title="XSMB" href="{{ route('xsmb') }}">XSMB</a>
+                được lấy ngẫu nhiên từ những kết quả quay thưởng xổ số truyền thống của đài XSMB trong quá khứ, không theo bất kỳ quy luật hay xu hướng cụ thể nào.
+            </p>
+            <p style="margin: 0">Tính năng này chỉ nhằm mục đích giải trí sau những giờ làm việc căng thẳng, mang tính chất tham khảo và không có giá trị pháp lý.</p>
+            <p style="margin: 0">Tính năng "Quay thử xổ số miền Bắc" là một công cụ giải trí thú vị. Hãy sử dụng nó một cách vui vẻ và có trách nhiệm. Chúng tôi hoàn toàn không chịu trách nhiệm về việc Quý vị sử dụng thông tin này.
+                Chúc các bạn MAY MẮN khi tham gia mua <a style="text-decoration: underline"  title="xổ số kiến thiết" href="{{ route('home') }}">xổ số kiến thiết</a>.
+            </p>
         </div>
     </div>
 @endsection

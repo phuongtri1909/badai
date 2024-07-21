@@ -17,7 +17,7 @@
         </div>
 
         <div class="content-right bullet live_mb">
-            <div class="title-r"><a class="bg-blue" title="Xổ số miền bắc" href="{{ route('xsmb') }}">Xổ số vietlott</a></div>
+            <div class="title-r"><a class="bg-blue" title="Xổ số vietlott" href="{{ route('vietlott') }}">Xổ số vietlott</a></div>
             <ul>
                 <li @if (url()->full() == route('xsthantai')) class="active" @endif><a href="{{ route('xsthantai') }}">Thần
                         Tài
@@ -26,7 +26,7 @@
                         toán 123
                     </a></li>
                 <li @if (url()->full() == route('dientoan6x36')) class="active" @endif><a href="{{ route('dientoan6x36') }}">Điện
-                        toán 636</a></li>
+                        toán 6x36</a></li>
                 {{-- <li @if (url()->full() == route('max3d')) class="active" @endif><a href="#">Max 3D</a> --}}
                 {{-- </li> --}}
                 {{-- <li @if (url()->full() == route('max3dpro')) class="active" @endif><a href="#">Max 3D --}}

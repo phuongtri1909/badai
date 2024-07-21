@@ -3,10 +3,10 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
 ?>
 @extends('frontend.layouts.app')
 
-@section('title','Dự đoán XSMT '.getNgay($dudoan->date).' - Dự đoán xổ số miền Trung')
-@section('decription','Dự đoán XSMT '.getNgay($dudoan->date).' - Dự đoán xổ số miền Trung - Thống kê, phân tích, dự đoán MT ngày '.getNgay($dudoan->date).' chốt số đẹp miễn phí hôm nay, tỷ lệ chuẩn xác 100%')
+@section('title','Dự Đoán XSMT '.getNgayThang($dudoan->date).' - Soi cầu xổ số miền Trung ' .getNgay($dudoan->date))
+@section('decription','Dự đoán XSMT '.getNgay($dudoan->date).' chính xác từ cao thủ soi cầu số 1 hiện nay. Soi cầu xổ số miền Trung chính xác 100, hoàn toàn miễn phí trên xosobadai.net')
 @section('keyword','DDXSMT, Dự đoán XSMT Hôm Nay '.getNgay($dudoan->date).', Dự đoán xổ số miền trung '.getNgay($dudoan->date).', DDXSMT '.getNgay($dudoan->date).'')
-@section('h1','Dự đoán XSMT '.getNgay($dudoan->date))
+@section('h1','Dự Đoán XSMT '.getNgayThang($dudoan->date).' - Soi cầu xổ số miền Trung ' .getNgay($dudoan->date))
 
 @section('breadcrumb')
     <div class="linkway">

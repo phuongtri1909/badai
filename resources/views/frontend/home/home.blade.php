@@ -1,8 +1,8 @@
 @extends('frontend.layouts.app')
-@section('title','KQXS - Xổ Số Hôm Nay - Trực Tiếp Xổ Số - Kết Quả Xổ Số 3 Miền Chính Xác Nhất')
+@section('title','KQXS - Xổ số ba đài - Trực tiếp kết quả xổ số hôm nay')
 @section('decription','KQXS - Trực tiếp xổ số hôm nay nhanh và chính xác nhất từ trường quay xổ số hàng ngày. Xem kết quả Xổ số 3 miền siêu chuẩn miễn phí.')
 @section('keyword','Xổ số, XS, Trực tiếp kết quả, trực tiếp xổ số, kết quả xổ số, KQXS, xổ số hôm nay, xshn, kết quả xổ số, kqxs, xổ số 3 miền, xs3m,  xổ số kiến thiết, xskt')
-@section('h1','KQXS - Xổ Số Hôm Nay - Trực Tiếp Xổ Số - Kết Quả Xổ Số 3 Miền Chính Xác Nhất')
+@section('h1','KQXS - Xổ số ba đài - Trực tiếp kết quả xổ số hôm nay')
 @section('content')
     <div class="col-l">
         {{--<div class="box">--}}
@@ -204,18 +204,13 @@
                 </ul>
             </div>
             <div class="box-content">
-                <div class="content-news show-content">
+                <div class="content-news">
                      <h2 class="text-center"><strong > Giới thiệu về trang KQXS - xosobadai.net - XO SO HOM NAY</strong></h2>
                      <p><a href="{{ route('home') }}"><strong>xosobadai.net</strong> </a> là trang kết quả xổ số trực tuyến nhanh nhất và chính xác nhất tại Việt Nam. Với giao diện thân thiện và dễ sử dụng, Xổ Số Ba Đài giúp người dùng theo dõi <a href="{{ route('home') }}"><strong>kqxs</strong></a> mọi lúc, mọi nơi một cách tiện lợi và nhanh chóng.</p>
                      <p>Theo dõi <a href="{{ route('xsmb') }}"><strong>XSMB</strong></a> - Kết quả xổ số miền Bắc hàng ngày lúc 18h15</p>
                      <p>Theo dõi <a href="{{ route('xsmn') }}"><strong>XSMN</strong></a> - Kết quả xổ số miền Nam hàng ngày lúc 16h15</p>
                      <p>Theo dõi <a href="{{ route('xsmt') }}"><strong>XSMT</strong></a> - Kết quả xổ số miền Trung hàng ngày lúc 17h15</p>
                      <p>Không chỉ trực tiếp <a href="{{ route('home') }}"><strong>KQXS</strong></a> ba miền, <a href="{{ route('home') }}"><strong>xosobadai.net</strong> </a> còn nhiều tiện ích khác dành cho bạn như dự đoán xổ số, thống kê lô tô, xổ số vietlott, xổ số điện toán hoàn toàn miễn phí.</p>
-                </div>
-
-                <div class="view-more">
-                    <a class="show-text" rel="nofollow" href="javascript:void(0)" id="textxemthem">Xem thêm</a>
-                    <a class="hiden-text" rel="nofollow" href="javascript:void(0)" id="textxemthem">Thu gọn</a>
                 </div>
             </div>
         </div>

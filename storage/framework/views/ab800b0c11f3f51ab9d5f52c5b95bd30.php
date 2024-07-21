@@ -17,7 +17,7 @@
         </div>
 
         <div class="content-right bullet live_mb">
-            <div class="title-r"><a class="bg-blue" title="Xổ số miền bắc" href="<?php echo e(route('xsmb')); ?>">Xổ số vietlott</a></div>
+            <div class="title-r"><a class="bg-blue" title="Xổ số vietlott" href="<?php echo e(route('vietlott')); ?>">Xổ số vietlott</a></div>
             <ul>
                 <li <?php if(url()->full() == route('xsthantai')): ?> class="active" <?php endif; ?>><a href="<?php echo e(route('xsthantai')); ?>">Thần
                         Tài
@@ -26,7 +26,7 @@
                         toán 123
                     </a></li>
                 <li <?php if(url()->full() == route('dientoan6x36')): ?> class="active" <?php endif; ?>><a href="<?php echo e(route('dientoan6x36')); ?>">Điện
-                        toán 636</a></li>
+                        toán 6x36</a></li>
                 
                 
                 

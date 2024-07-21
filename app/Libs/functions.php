@@ -327,13 +327,8 @@ function getNgayThangNgang($date)
     return $arrDate[2] . '-' . $arrDate[1];
 }
 
-function getNgay($date)
-{
-    $arrDate = explode('-', $date);
-    return $arrDate[2] . '/' . $arrDate[1] . '/' . $arrDate[0];
-}
 
-function getNgay1($date)
+function getNgay($date)
 {
     $arrDate = explode('-', $date);
     return intval($arrDate[2]) . '/' . intval($arrDate[1]) . '/' . $arrDate[0];

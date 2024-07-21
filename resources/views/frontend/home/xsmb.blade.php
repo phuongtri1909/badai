@@ -16,7 +16,7 @@ $xsmbDuoi = getDuoi($xsmbLoto, substr($xsmb->gdb, strlen($xsmb->gdb) - 2, 2));
 ?>
 <div class="box border-red" id='kqngay_{{date('dmY',time())}}'>
     <div class="tit-mien clearfix">
-        <h2> Kết quả xổ số miền Bắc {{getNgay1($xsmb->date)}}</h2>
+        <h2> Kết quả xổ số miền Bắc {{getNgay($xsmb->date)}}</h2>
         <div id="MbListLink">
             <a class="sub-title" href="{{route('xsmb')}}" title="XSMB">XSMB</a>
             » <a class="sub-title" href="{{route(getRouteDay($xsmb->day,'xsmb'))}}"
