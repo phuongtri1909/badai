@@ -269,7 +269,7 @@
 </script>
  <!-- Code  Quảng Cáo  AT -->
 
-<div id="atn-6e2713a6efee97bacb63e52c54f0ada0" style="position:fixed;right:20px;top:40%;z-index:9999"><script async src="https://jsc.yodimedia.com/code/6/e/6e2713a6efee97bacb63e52c54f0ada0.js" crossorigin="anonymous"></script></div>
+{{-- <div id="atn-6e2713a6efee97bacb63e52c54f0ada0" style="position:fixed;right:20px;top:40%;z-index:9999"><script async src="https://jsc.yodimedia.com/code/6/e/6e2713a6efee97bacb63e52c54f0ada0.js" crossorigin="anonymous"></script></div> --}}
 
  <!-- End Code  Quảng Cáo  AT -->
  
