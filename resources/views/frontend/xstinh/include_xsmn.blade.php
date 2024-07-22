@@ -28,7 +28,6 @@
     $xsDau = getDau($xsLoto, substr($xs->gdb, strlen($xs->gdb) - 2, 2));
     
     $xsDuoi = getDuoi($xsLoto, substr($xs->gdb, strlen($xs->gdb) - 2, 2));
-    
     ?>
 
     @if ($xs->date == date('Y-m-d', time()))
@@ -366,24 +365,23 @@
         <div class="box">
             <div class="tit-mien clearfix">
                 @if ($d == 1)
-                    <h2>XS{{ strtoupper($xs->province->short_name) }} - Kết quả xổ số {{ $xs->province->name }}
-                        hôm nay {{ getNgay($xs->date) }}</h2>
+                    <h2>{{ $xs->data }} {{ getNgay($xs->date) }}</h2>
                 @elseif($d == 2)
-                    <h2>KQXS {{ $xs->province->name }} - Xổ số {{ $xs->province->name }} hôm qua
+                    <h2>{{ $xs->data }}
                         {{ getNgay($xs->date) }}</h2>
                 @elseif($d == 3)
-                    <h2>SX{{ strtoupper($xs->province->short_name) }} - Xổ số đài {{ $xs->province->name }} ngày
+                    <h2>{{ $xs->data }}
                         {{ getNgay($xs->date) }}</h2>
                 @elseif($d == 4)
-                    <h2>XS {{ $xs->province->name }} - Xổ số kiến thiết {{ $xs->province->name }}
+                    <h2>{{ $xs->data }}
                         {{ getNgay($xs->date) }}</h2>
                 @elseif($d == 5)
-                    <h2>XSKT {{ $xs->province->name }} - Xổ số {{ $xs->province->name }}
+                    <h2>{{ $xs->data }}
                         {{ getNgay($xs->date) }}</h2>
                 @elseif($d == 6)
-                    <h2>Xổ số {{ $xs->province->name }} {{ $thu }} ngày {{ getNgay($xs->date) }}</h2>
+                    <h2>{{ $xs->data }} {{ getNgay($xs->date) }}</h2>
                 @elseif($d == 7)
-                    <h2>Xs{{ $xs->province->short_name }} - Xổ số miền nam {{ $xs->province->name }}
+                    <h2>{{ $xs->data }}
                         {{ getNgay($xs->date) }}</h2>
                 @endif
                 <div>
@@ -656,9 +654,11 @@
                         <li>Xem <a href="{{ route('dudoan.xsmn') }}" title="dự đoán XSMN">dự đoán XSMN
                             </a> chính xác nhất</li>
 
-                        <li>Xem thống kê <a href="{{ route('tk.lo-gan',$xs->province->short_name) }}" title="lô gan {{ $xs->province->name }}">lô gan 
-                            {{ $xs->province->name }}</a></li>
-                        <li>Xem ngay kết quả <a href="{{ route('xsmn') }}" title="XSMN hôm nay">XSMN hôm nay</a></li>
+                        <li>Xem thống kê <a href="{{ route('tk.lo-gan', $xs->province->short_name) }}"
+                                title="lô gan {{ $xs->province->name }}">lô gan
+                                {{ $xs->province->name }}</a></li>
+                        <li>Xem ngay kết quả <a href="{{ route('xsmn') }}" title="XSMN hôm nay">XSMN hôm nay</a>
+                        </li>
                     </div>
                 @elseif($d == 2 && $xs->province->short_name != 'vt')
                     <div class="see-more">

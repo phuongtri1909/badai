@@ -366,25 +366,23 @@
         <div class="box">
             <div class="tit-mien clearfix">
                 @if ($d == 1)
-                    <h2>XS{{ strtoupper($xs->province->short_name) }} - Kết quả xổ số {{ $xs->province->name }}
-                        hôm nay {{ getNgay($xs->date) }}</h2>
+                    <h2>{{ $xs->data }} {{ getNgay($xs->date) }}</h2>
                 @elseif($d == 2)
-                    <h2>KQXS {{ strtoupper($xs->province->name) }} - Xổ số {{ $xs->province->name }} hôm qua
+                    <h2>{{ $xs->data }}
                         {{ getNgay($xs->date) }}</h2>
                 @elseif($d == 3)
-                    <h2>SX{{ strtoupper($xs->province->short_name) }} - Xổ số đài {{ $xs->province->name }} ngày
+                    <h2>{{ $xs->data }}
                         {{ getNgay($xs->date) }}</h2>
                 @elseif($d == 4)
-                    <h2>XS {{ strtoupper($xs->province->name) }} - Xổ số kiến thiết {{ $xs->province->name }}
+                    <h2>{{ $xs->data }}
                         {{ getNgay($xs->date) }}</h2>
                 @elseif($d == 5)
-                    <h2>XSKT {{ strtoupper($xs->province->name) }} - Xo so {{ $xs->province->name }}
+                    <h2>{{ $xs->data }}
                         {{ getNgay($xs->date) }}</h2>
                 @elseif($d == 6)
-                    <h2>XS{{ strtoupper($xs->province->short_name) }} - Xổ số {{ $xs->province->name }}
-                        {{ $thu }} {{ getNgay($xs->date) }}</h2>
+                    <h2>{{ $xs->data }} {{ getNgay($xs->date) }}</h2>
                 @elseif($d == 7)
-                    <h2>XS{{ strtoupper($xs->province->short_name) }} - SX {{ $xs->province->name }}
+                    <h2>{{ $xs->data }}
                         {{ getNgay($xs->date) }}</h2>
                 @endif
                 <div>

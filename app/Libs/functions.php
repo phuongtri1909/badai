@@ -316,6 +316,12 @@ function getNgayThang($date)
     return $arrDate[2] . '/' . $arrDate[1];
 }
 
+function getNgayThang1($date)
+{
+    $arrDate = explode('/', $date);
+    return $arrDate[0] . '/' . intval($arrDate[1]);
+}
+
 function getThangNam($date)
 {
     $arrDate = explode('-', $date);
@@ -327,11 +333,16 @@ function getNgayThangNgang($date)
     return $arrDate[2] . '-' . $arrDate[1];
 }
 
+function getNgay1($date)
+{
+    $arrDate = explode('/', $date);
+    return $arrDate[0];
+}
 
 function getNgay($date)
 {
     $arrDate = explode('-', $date);
-    return intval($arrDate[2]) . '/' . intval($arrDate[1]) . '/' . $arrDate[0];
+    return $arrDate[2] . '/' . intval($arrDate[1]) . '/' . $arrDate[0];
 }
 
 function getNgay_Emb($date)
@@ -471,6 +482,34 @@ function getThu($day)
             break;
     }
 }
+
+function getThuChu($day)
+{
+    switch ($day) {
+        case 2:
+            return 'thứ hai';
+            break;
+        case 3:
+            return 'thứ ba';
+            break;
+        case 4:
+            return 'thứ tư';
+            break;
+        case 5:
+            return 'thứ năm';
+            break;
+        case 6:
+            return 'thứ sáu';
+            break;
+        case 7:
+            return 'thứ bảy';
+            break;
+        case 8:
+            return 'chủ nhật';
+            break;
+    }
+}
+
 function getNumberRandKhoang($a,$b)
 {
     $number = rand($a, $b);
