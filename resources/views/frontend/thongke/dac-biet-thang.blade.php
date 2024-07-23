@@ -3,9 +3,9 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
 ?>
 @extends('frontend.layouts.app_full')
 
-@section('title','Bảng đặc biệt tháng - Thống kê xổ số giải đặc biệt theo tháng Với Xổ Số Site')
-@section('decription','Bảng đặc biệt tháng Với Xổ Số Site - Thống kê xổ số giải đặc biệt theo tháng - Thống kê XSMB - Thống kê MB theo tuần, tháng, năm.')
-@section('h1','Bảng đặc biệt tháng - Thống kê xổ số giải đặc biệt theo tháng Với Xổ Số Site')
+@section('title','Bảng đặc biệt tháng - Thống kê xổ số giải đặc biệt theo tháng Với Xổ Số Ba Đài')
+@section('decription','Bảng đặc biệt tháng Với Xổ Số Ba Đài - Thống kê xổ số giải đặc biệt theo tháng - Thống kê XSMB - Thống kê MB theo tuần, tháng, năm.')
+@section('h1','Bảng đặc biệt tháng - Thống kê xổ số giải đặc biệt theo tháng Với Xổ Số Ba Đài')
 @section('content')
     <div class="linkway">
 

@@ -3,9 +3,9 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
 ?>
 @extends('frontend.layouts.app')
 
-@section('title','Cầu trượt miền Bắc - Soi cau XSMB - Soi cau MB Xổ Số Site')
-@section('decription','Cầu trượt miền Bắc Xổ Số Site ✅ - Soi cau XSMB - Soi cau MB hàng ngày cực chuẩn, phân tích và thống kê các cặp số có khả năng về tính  theo CAU Mien Bac, CAU MB, SOI CAU MB.')
-@section('h1','Cầu trượt miền Bắc - Soi cau XSMB - Soi cau MB Xổ Số Site')
+@section('title','Cầu trượt miền Bắc - Soi cau XSMB - Soi cau MB Xổ Số Ba Đài')
+@section('decription','Cầu trượt miền Bắc Xổ Số Ba Đài ✅ - Soi cau XSMB - Soi cau MB hàng ngày cực chuẩn, phân tích và thống kê các cặp số có khả năng về tính  theo CAU Mien Bac, CAU MB, SOI CAU MB.')
+@section('h1','Cầu trượt miền Bắc - Soi cau XSMB - Soi cau MB Xổ Số Ba Đài')
 
 @section('breadcrumb')
     <div class="linkway">

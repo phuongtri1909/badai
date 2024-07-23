@@ -3,8 +3,8 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
 ?>
 @extends('frontend.layouts.app')
 
-@section('title', 'Lô gan ' . $province_name . ' - Thống kê lô gan Với Xổ Số Site')
-@section('decription', 'Lô gan ' . $province_name . ' - Thống kê lô gan Với Xổ Số Site - Thống kê các cặp Lô tô gan lâu
+@section('title', 'Lô gan ' . $province_name . ' - Thống kê lô gan Với Xổ Số Ba Đài')
+@section('decription', 'Lô gan ' . $province_name . ' - Thống kê lô gan Với Xổ Số Ba Đài - Thống kê các cặp Lô tô gan lâu
     ngày chưa về. Thống kê Xổ số nhanh, chính xác')
 @section('keyword', 'lo gan, lô gan, Lô gan ' . $province_name . ', Thống kê lô gan, thong ke lo gan')
 @section('h1', 'Lô gan ' . $province_name)

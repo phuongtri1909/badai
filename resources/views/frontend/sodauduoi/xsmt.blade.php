@@ -2,10 +2,10 @@
 date_default_timezone_set('Asia/Ho_Chi_Minh');
 ?>
 @extends('frontend.layouts.app')
-@section('title','Sớ đầu đuôi mt - Sớ đầu đuôi miền Trung Với Xổ Số Site')
-@section('decription','Sớ đầu đuôi MT Với Xổ Số Site - Sớ đầu đuôi Miền Trung: Xem đầu đít MT ở giải đặc biệt và giải 8 ở 2 số cuối chính xác và hoàn toàn miễn phí')
+@section('title','Sớ đầu đuôi mt - Sớ đầu đuôi miền Trung Với Xổ Số Ba Đài')
+@section('decription','Sớ đầu đuôi MT Với Xổ Số Ba Đài - Sớ đầu đuôi Miền Trung: Xem đầu đít MT ở giải đặc biệt và giải 8 ở 2 số cuối chính xác và hoàn toàn miễn phí')
 @section('keyword','Dự đoán số đầu đuôi miềm trung,số đầu đuôi miền trung, XSĐĐMT')
-@section('h1','Sớ đầu đuôi mt - Sớ đầu đuôi miền Trung Với Xổ Số Site ')
+@section('h1','Sớ đầu đuôi mt - Sớ đầu đuôi miền Trung Với Xổ Số Ba Đài ')
 @section('breadcrumb')
     <div class="linkway">
         <div class="main">

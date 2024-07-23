@@ -2,10 +2,10 @@
 date_default_timezone_set('Asia/Ho_Chi_Minh');
 ?>
 @extends('frontend.layouts.app')
-@section('title','Sớ đầu đuôi MT - Sớ đầu đuôi miền Nam Với Xổ Số Site')
-@section('decription','Sớ đầu đuôi MT Với Xổ Số Site - Sớ đầu đuôi Miền Nam: Xem đầu đít MT ở giải đặc biệt và giải 8 ở 2 số cuối chính xác và hoàn toàn miễn phí')
+@section('title','Sớ đầu đuôi MT - Sớ đầu đuôi miền Nam Với Xổ Số Ba Đài')
+@section('decription','Sớ đầu đuôi MT Với Xổ Số Ba Đài - Sớ đầu đuôi Miền Nam: Xem đầu đít MT ở giải đặc biệt và giải 8 ở 2 số cuối chính xác và hoàn toàn miễn phí')
 @section('keyword','Dự đoán số đầu đuôi miềm nam,số đầu đuôi miền nam, XSĐĐMN')
-@section('h1','Sớ đầu đuôi MT - Sớ đầu đuôi miền Nam Với Xổ Số Site')
+@section('h1','Sớ đầu đuôi MT - Sớ đầu đuôi miền Nam Với Xổ Số Ba Đài')
 @section('breadcrumb')
     <div class="linkway">
         <div class="main">
@@ -84,7 +84,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
         </button>
         <div class="box-content">
             
-           <p style="text-align: justify;"><span style="font-weight: 400;"><a title="Sớ Đầu Đu&ocirc;i Miền Nam" href="/so-dau-duoi-xsmn"><strong>Sớ Đầu Đu&ocirc;i Miền Nam</strong></a>. Xem Sớ Đầu Đu&ocirc;i Miền Nam chuẩn nhất tại <a title="Xổ Số Site" href="/">XoSobadai.net</a></span></p>
+           <p style="text-align: justify;"><span style="font-weight: 400;"><a title="Sớ Đầu Đu&ocirc;i Miền Nam" href="/so-dau-duoi-xsmn"><strong>Sớ Đầu Đu&ocirc;i Miền Nam</strong></a>. Xem Sớ Đầu Đu&ocirc;i Miền Nam chuẩn nhất tại <a title="Xổ Số Ba Đài" href="/">XoSobadai.net</a></span></p>
             <p style="text-align: justify;"><span style="font-weight: 400;">XoSobadai.net nơi cập nhật Sớ Đầu Đu&ocirc;i Miền Nam ch&iacute;nh x&aacute;c v&agrave; nhanh ch&oacute;ng nhất.</span></p>
             <p style="text-align: justify;"><strong>Sớ Đầu Đu&ocirc;i Miền Nam l&agrave; g&igrave;?</strong></p>
             <p style="text-align: justify;"><span style="font-weight: 400;">Sớ đầu đu&ocirc;i miền Nam l&agrave; phương ph&aacute;p thống k&ecirc; nhanh 2 con loto đầu ở giải 8 v&agrave; 2 con loto cuối ở giải Đặc Biệt. Sớ đầu đu&ocirc;i miền Nam gi&uacute;p bạn thống k&ecirc; được những con loto n&agrave;o hay về, &iacute;t về hay l&acirc;u chưa về ở giải đầu v&agrave; giải cuối của <a title="XSMN" href="/xsmn-xo-so-mien-nam"><strong>XSMN</strong></a>.</span></p>
@@ -104,7 +104,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
             <p style="text-align: justify;"><span style="font-weight: 400;">Một c&aacute;ch kh&aacute;c để dễ d&agrave;ng t&igrave;m kiếm con số n&agrave;y dựa tr&ecirc;n những g&igrave; ch&uacute;ng t&ocirc;i đ&atilde; chia sẻ l&agrave; gh&eacute;p n&oacute; với giải s&aacute;u, thường sẽ c&oacute; nhiều số hơn. Bạn c&oacute; thể gh&eacute;p với c&aacute;c cặp số như sau: 86 &ndash; 87 &ndash; 29 &ndash; 25. Tuy nhi&ecirc;n, để c&oacute; thể đạt hiệu quả tối đa, bạn n&ecirc;n xen kẽ phương ph&aacute;p n&agrave;y để tỷ lệ thắng cao.&nbsp;</span></p>
             <p style="text-align: justify;"><strong>Gh&eacute;p với giải 7</strong></p>
             <p style="text-align: justify;"><span style="font-weight: 400;">Khi &aacute;p dụng phương ph&aacute;p đu&ocirc;i giải 7, bạn thường sẽ c&oacute; &iacute;t cặp số hơn. V&iacute; dụ, 56, 7 tương ứng với 22-68 v&agrave; 59. Tại đ&acirc;y, người chơi sẽ c&oacute; con l&ocirc; như sau: 52-56-69. Như vậy khi gh&eacute;p đu&ocirc;i GĐB với đầu giải bảy, đầu giải nhất. C&aacute;c GĐB kết th&uacute;c bằng số 7. Người chơi sẽ c&oacute; những cặp số rất đẹp may mắn để đặt cược.</span></p>
-            <p style="text-align: justify;"><span style="font-weight: 400;">Xem Sớ Đầu Đu&ocirc;i, Sớ Đầu Đu&ocirc;i Miền Nam, Sớ Đầu Đu&ocirc;i Miền Trung, Sớ Đầu Đu&ocirc;i Miền Bắc được cập nhật li&ecirc;n tục, ch&iacute;nh x&aacute;c tại <a title="Xổ Số Site" href="/">XoSobadai.net</a></span></p>
+            <p style="text-align: justify;"><span style="font-weight: 400;">Xem Sớ Đầu Đu&ocirc;i, Sớ Đầu Đu&ocirc;i Miền Nam, Sớ Đầu Đu&ocirc;i Miền Trung, Sớ Đầu Đu&ocirc;i Miền Bắc được cập nhật li&ecirc;n tục, ch&iacute;nh x&aacute;c tại <a title="Xổ Số Ba Đài" href="/">XoSobadai.net</a></span></p>
         </div>
 
     </div>

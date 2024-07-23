@@ -3,9 +3,9 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
 ?>
 @extends('frontend.layouts.app')
 
-@section('title','Thống kê nhanh tần suất bộ số với Xổ Số Site')
-@section('decription','Thống kê nhanh với Xổ Số Site: thống kê ngày về gần nhất, tổng số lần suất hiện, số ngày chưa về cho đến nay một cách trực quan nhanh nhất')
-@section('h1','Thống kê nhanh tần suất bộ số Xổ Số Site')
+@section('title','Thống kê nhanh tần suất bộ số với Xổ Số Ba Đài')
+@section('decription','Thống kê nhanh với Xổ Số Ba Đài: thống kê ngày về gần nhất, tổng số lần suất hiện, số ngày chưa về cho đến nay một cách trực quan nhanh nhất')
+@section('h1','Thống kê nhanh tần suất bộ số Xổ Số Ba Đài')
 
 @section('breadcrumb')
     <div class="linkway">

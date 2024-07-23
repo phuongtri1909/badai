@@ -83,7 +83,7 @@
     {
       "@context": "https://schema.org",
       "@type": "EntertainmentBusiness",
-      "name": "Xổ Số Site",
+      "name": "Xổ Số Ba Đài",
       "alternateName": "KQXS - Xổ Số Hôm Nay - Trực Tiếp Xổ Số - Kết Quả Xổ Số 3 Miền Chính Xác Nhất",
       "@id": "https://xosobadai.net/",
       "logo": "https://xosobadai.net/frontend/images/xo-so-ba-dai.png",

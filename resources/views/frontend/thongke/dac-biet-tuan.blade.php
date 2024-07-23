@@ -3,10 +3,10 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
 ?>
 @extends('frontend.layouts.app')
 
-@section('title','Bảng đặc biệt tuần - Thống kê giải đặc biệt theo tuần, XSMB tuần Với Xổ Số Site')
-@section('decription','Thống kê giải đặc biệt Xổ số Miền Bắc Với  Xổ Số Site- Thống kê Xổ số Miền Bắc theo tuần, tháng, năm.')
+@section('title','Bảng đặc biệt tuần - Thống kê giải đặc biệt theo tuần, XSMB tuần Với Xổ Số Ba Đài')
+@section('decription','Thống kê giải đặc biệt Xổ số Miền Bắc Với  Xổ Số Ba Đài- Thống kê Xổ số Miền Bắc theo tuần, tháng, năm.')
 @section('keyword','Thống kê giải đặc biệt, Thống kê Miền Bắc, Thống kê giải đặc biệt Miền Bắc, Thong ke giai dac biet')
-@section('h1','Bảng đặc biệt tuần - Thống kê giải đặc biệt theo tuần, XSMB tuần Với Xổ Số Site')
+@section('h1','Bảng đặc biệt tuần - Thống kê giải đặc biệt theo tuần, XSMB tuần Với Xổ Số Ba Đài')
 @section('breadcrumb')
     <div class="linkway">
         <div class="main">

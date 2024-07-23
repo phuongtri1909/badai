@@ -4,7 +4,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
 ?>
 @extends('frontend.layouts.app')
 
-@section('title','Soi cau theo thứ miền Bắc - Soi cau XSMB - Soi cau MB Với Xổ Số Site')
+@section('title','Soi cau theo thứ miền Bắc - Soi cau XSMB - Soi cau MB Với Xổ Số Ba Đài')
 @section('decription','Soi cau theo thứ miền Bắc ✅ - Soi cau XSMB - Soi cau MB hàng ngày cực chuẩn, phân tích và thống kê các cặp số có khả năng về tính  theo CAU Mien Bac, CAU MB, SOI CAU MB.')
 @section('keyword','bach thu mb, Soi cau XSMB,soi cau bach thu, soi cau lo bach thu, soi cau xsmb, cau bach thu xsmb, soi cau mb, cau xsmb, soi cau lo de mien bac, soi cau mien bac hom nay, bach thu lo, soi cau xsmb hom nay, cau lo bach thu, soi cau lo de mien bac hom nay, soi cau mien bac chinh xac nhat, lo bach thu, du doan xsmb chinh xac nhat, soi cau lo de chuan, soi cau lo de mb, soi cau mb hom nay, du doan ket qua xsmb toi nay, soi cau mb chinh xac, soi cau lo chinh xac nhat mien bac, Soi cau miền bắc, soi cau du doan ket qua xo so mien bac, du doan soi cau mien bac, soi cau du doan xsmb')
 @section('h1','Soi cau theo thứ miền Bắc - Soi cau XSMB - Soi cau MB')

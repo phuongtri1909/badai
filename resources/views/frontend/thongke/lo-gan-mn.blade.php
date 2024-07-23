@@ -3,10 +3,10 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
 ?>
 @extends('frontend.layouts.app')
 
-@section('title','Lô gan miền Nam - Thống kê lô gan Với Xổ Số Site')
-@section('decription','Lô gan miền Nam Với Xổ Số Site - Thống kê lô gan - Thống kê các cặp Lô tô gan lâu ngày chưa về. Thống kê Xổ số nhanh, chính xác')
+@section('title','Lô gan miền Nam - Thống kê lô gan Với Xổ Số Ba Đài')
+@section('decription','Lô gan miền Nam Với Xổ Số Ba Đài - Thống kê lô gan - Thống kê các cặp Lô tô gan lâu ngày chưa về. Thống kê Xổ số nhanh, chính xác')
 @section('keyword','lo gan, lô gan, Lô gan miền Nam, Thống kê lô gan, thong ke lo gan')
-@section('h1','Lô gan miền Nam - Thống kê lô gan Với Xổ Số Site')
+@section('h1','Lô gan miền Nam - Thống kê lô gan Với Xổ Số Ba Đài')
 @section('breadcrumb')
     <div class="linkway">
         <div class="main">
