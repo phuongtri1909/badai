@@ -310,6 +310,12 @@ function getNgayLink($date)
     return $arrDate[2] . '-' . $arrDate[1] . '-' . $arrDate[0];
 }
 
+function getNgayLink1($date)
+{
+    $arrDate = explode('-', $date);
+    return $arrDate[2] . '-' .  intval($arrDate[1]) . '-' . $arrDate[0];
+}
+
 function getNgayThang($date)
 {
     $arrDate = explode('-', $date);
